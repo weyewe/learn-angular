@@ -1,4 +1,6 @@
 Rails.application.routes.draw do
+  get 'routing/show'
+
   resources :games
   resources :books
   get 'git_http/show'

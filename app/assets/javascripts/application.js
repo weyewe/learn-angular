@@ -16,3 +16,4 @@
 //= require angular.min 
 //= require angular-application
 //= require_tree ../templates
+//= require angular-ui-router
